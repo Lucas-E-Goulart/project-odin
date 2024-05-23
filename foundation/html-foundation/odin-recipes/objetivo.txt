@@ -1,0 +1,2 @@
+O objetivo do projeto desta pasta é criar uma web page que tenha algumas receitas.
+Deve seguir as intruções que estão em https://www.theodinproject.com/lessons/foundations-recipes
