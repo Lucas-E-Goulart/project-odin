@@ -1,0 +1,15 @@
+*{
+    color: green;
+}
+p{
+    font-size: large;
+}
+div{
+    background-color: black;
+}
+#last-line{
+    font-family: sans-serif;
+}
+.intro-text{
+    font-family: Arial;
+}
